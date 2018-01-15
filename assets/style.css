@@ -1,0 +1,18 @@
+body {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  color: #051358;
+  background: url("../assets/images/cityBackground.jpg");
+  background-size: 100%;
+}
+
+.jumbotron {
+	color: #051358;
+}
+
+.panel-default>.panel-heading {
+	color: #051358;
+}
+
+
